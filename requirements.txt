@@ -1,0 +1,21 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+python-dotenv==1.0.0
+pydantic==2.6.1
+pydantic-settings==2.1.0
+sqlalchemy==2.0.25
+mysqlclient==2.2.1  # or psycopg2-binary==2.9.9 for PostgreSQL
+pdfplumber==0.10.3
+langchain==0.1.5
+langchain-community==0.0.11
+ollama==0.1.4
+python-multipart==0.0.6
+pydantic
+pydantic-settings==2.1.0
+pymysql
+sqlalchemy
+cryptography==42.0.5
+uvicorn 
+fastapi
+pdfplumber
+langchain
